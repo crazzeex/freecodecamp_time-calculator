@@ -1,3 +1,5 @@
+#freecodecamp_time-calculator
+
 This is the code written for PROJECT2 for https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
 
 Feel free to leave any comments to suggest ways in which the code can be improved! This will be much appreciated! If you would like to run all test cases, you may refer to the link above or configure the test_module file accordingly. Cheers!
